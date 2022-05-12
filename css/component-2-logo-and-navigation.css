@@ -29,6 +29,18 @@
   width: 100%;
   background-color: #232323;
   padding-left: 60px;
+  position: relative;
+}
+.slider-inner {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-51%, -50%);
 }
 .slider-inner > h2 {
   font-size: 60px;
