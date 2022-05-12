@@ -3,6 +3,11 @@
   width: 100%;
   margin: 0 auto;
 }
+.containerarticle {
+  max-width: 1167px;
+  width: 100%;
+  margin: 0 auto;
+}
 .flex {
   display: flex;
 }
