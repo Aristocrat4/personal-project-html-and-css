@@ -1,0 +1,38 @@
+.top-info-inner {
+  padding: 15px 0;
+  font-family: "Muli";
+}
+.top-info-inner > span {
+  font-size: 15px;
+  color: #0a0909;
+}
+.email {
+  margin-right: 79px;
+}
+
+.email > img {
+  margin-right: 22px;
+}
+.phone > img {
+  margin-right: 11px;
+}
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+  width: 120px;
+}
+.social-icons > img {
+  cursor: pointer;
+}
+.top-info {
+  position: relative;
+}
+.top-info::after {
+  content: "";
+  display: block;
+  height: 1px;
+  width: 100%;
+  position: absolute;
+  bottom: -3px;
+  background-color: #c9c9c9;
+}
