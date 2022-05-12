@@ -1,0 +1,61 @@
+.logo-and-nav {
+  padding: 19px 0 22px 0;
+}
+.logo-and-nav > h1 {
+  font-family: "Poppins-ExtraBold";
+  font-size: 40px;
+  line-height: 55px;
+  text-transform: capitalize;
+  color: #0a0909;
+  margin-right: 139px;
+}
+.logo-and-nav > h1 > span {
+  color: #ee3364;
+}
+.logo-and-nav > nav > ul {
+  width: 570px;
+  font-family: "Muli-Bold";
+  font-size: 18px;
+  line-height: 36px;
+}
+.logo-and-nav > nav > ul > li:nth-child(3) {
+  color: #ee3364;
+}
+.cart-search {
+  width: 71px;
+}
+.slider {
+  height: 542px;
+  width: 100%;
+  background-color: #232323;
+  padding-left: 60px;
+}
+.slider-inner > h2 {
+  font-size: 60px;
+  line-height: 52px;
+  font-family: "GlacialIndifference-Bold";
+  color: #ffffff;
+  text-transform: capitalize;
+  margin-bottom: 35px;
+}
+.slider-inner > ul > li {
+  font-family: "Muli-Regular";
+  font-size: 18px;
+  line-height: 36px;
+  text-transform: capitalize;
+}
+.slider-inner > ul > li:not(:last-child) {
+  color: #8799a3;
+  margin-right: 20px;
+}
+.slider-inner > ul > li:not(:last-child)::after {
+  content: ">";
+  display: inline-block;
+  color: #8799a3;
+  height: 15px;
+  width: 15px;
+  margin-left: 15px;
+}
+.slider-inner > ul > li:last-child {
+  color: #ffffff;
+}

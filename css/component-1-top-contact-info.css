@@ -1,6 +1,6 @@
 .top-info-inner {
   padding: 15px 0;
-  font-family: "Muli";
+  font-family: "Muli-Regular";
 }
 .top-info-inner > span {
   font-size: 15px;
@@ -33,6 +33,6 @@
   height: 1px;
   width: 100%;
   position: absolute;
-  bottom: -3px;
+  bottom: -1px;
   background-color: #c9c9c9;
 }

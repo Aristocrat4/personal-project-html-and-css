@@ -443,3 +443,12 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: "Muli-Regular";
+  src: url("../assets/fonts/Mulireg.woff2") format("woff2"),
+    url("../assets/fonts/Mulireg.woff") format("woff"),
+    url("../assets/fonts/Mulireg.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
