@@ -1,0 +1,68 @@
+.second > h2 {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 24px;
+  text-transform: capitalize;
+  line-height: 40px;
+  color: #2f2933;
+  margin-bottom: 15px;
+}
+.second > p {
+  font-family: "Muli-Regular";
+  font-size: 17px;
+  line-height: 30px;
+  color: #666666;
+  margin-bottom: 15px;
+}
+.second > .list-and-ads > ol {
+  float: left;
+  margin-bottom: 24px;
+}
+.second > .list-and-ads > ol > li {
+  font-family: "GlacialIndifference-Regular";
+  font-size: 16px;
+  line-height: 40px;
+}
+.second > .list-and-ads > ol > li::before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #666666;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.ads {
+  display: flex;
+  flex-direction: column;
+  float: right;
+}
+.ads > img {
+  width: 300px;
+  height: 250px;
+}
+.ads > span {
+  margin-top: 14px;
+  font-family: "Muli-Regular";
+  font-size: 8px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #cccccc;
+  margin-bottom: 10px;
+}
+.list-and-ads > button {
+  background-color: #ee3364;
+  font-family: "GlacialIndifference-Bold";
+  font-size: 12px;
+  color: #ffffff;
+  margin-right: 15px;
+  width: 220px;
+  height: 50px;
+  border: none;
+  text-transform: uppercase;
+}
+.list-and-ads > button > img {
+  margin-left: 20px;
+}
+.list-and-ads {
+  width: 96%;
+}
