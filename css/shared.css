@@ -20,3 +20,30 @@
 .ai-c {
   align-items: center;
 }
+.sidebar-block {
+  margin-left: 10px;
+  width: 270px;
+  padding: 43px 46px 46px 38px;
+  border: 1px solid #f1f1f1;
+  box-shadow: 0px 12px 8px #ccc;
+}
+.news-title {
+  font-size: 24px;
+  font-family: "GlacialIndifference-Bold";
+  color: #252525;
+  margin-bottom: 47px;
+  width: 243px;
+}
+.news-title::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background-color: #cccccc;
+  margin-top: 20px;
+}
+.sidebar-block:not(:last-child) {
+  margin-bottom: 45px;
+}
+.news {
+  margin-bottom: 30px;
+}

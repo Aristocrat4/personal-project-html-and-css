@@ -1,0 +1,39 @@
+.news-right > span {
+  font-family: "Muli-Bold";
+  font-size: 14px;
+  color: #bbc7cd;
+}
+.news-right > h4 {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 19px;
+  color: #252525;
+  margin: 12px 0 12px 0;
+  width: 170px;
+}
+.news-right > span:last-child {
+  font-family: "Muli-Regular";
+  font-size: 14px;
+  color: #0081ff;
+}
+.news-right {
+  flex-direction: column;
+  padding-top: 3px;
+}
+.news > img {
+  margin-right: 22px;
+}
+.news > img {
+  height: 80px;
+}
+.all-news {
+  margin-top: 10px;
+  border: none;
+  background-color: #ee3364;
+  color: #ffffff;
+  font-family: "GlacialIndifference-Bold";
+  font-size: 12px;
+  padding: 13px 38px;
+}
+.lesspadd {
+  max-height: 460px;
+}

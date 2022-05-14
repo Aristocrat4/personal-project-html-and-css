@@ -19,6 +19,8 @@
   color: #666666;
   width: 790px;
   margin-bottom: 14px;
+  letter-spacing: -0.3px;
+  max-width: 760px;
 }
 .social-block {
   width: 185px;

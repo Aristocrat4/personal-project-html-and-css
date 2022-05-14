@@ -15,6 +15,7 @@
   line-height: 30px;
   color: #666666;
   margin-bottom: 15px;
+  letter-spacing: -0.2px;
 }
 .second > .list-and-ads > ol {
   float: left;

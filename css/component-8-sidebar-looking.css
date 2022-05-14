@@ -1,37 +1,18 @@
 .sidebar {
   padding-top: 115px;
 }
-.looking {
-  width: 360px;
-  padding: 43px 46px 46px 48px;
-  border: 1px solid #f1f1f1;
-  box-shadow: 0px 12px 8px #ccc;
-}
-.looking > h3 {
-  font-size: 24px;
-  font-family: "GlacialIndifference-Bold";
-  color: #252525;
-  margin-bottom: 47px;
-  width: 243px;
-}
-.looking > h3::after {
-  content: "";
-  display: block;
-  height: 1px;
-  background-color: #cccccc;
-  margin-top: 20px;
-}
-.looking > ul > li {
+
+.sidebar-block > ul > li {
   font-family: "Muli-Regular";
   font-size: 16px;
   color: #8799a3;
   width: 243px;
   padding-left: 8px;
 }
-.looking > ul > li:not(:last-child) {
+.sidebar-block > ul > li:not(:last-child) {
   margin-bottom: 12px;
 }
-.looking > ul > li:not(:last-child)::after {
+.sidebar-block > ul > li:not(:last-child)::after {
   content: "";
   display: block;
   height: 1px;

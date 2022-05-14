@@ -11,9 +11,10 @@
 .block {
   padding-bottom: 20px;
   border-bottom: 1px solid #cfdbdf;
-  width: 395px;
+  width: 384px;
   margin-top: 20px;
 }
+
 .block > .post-img {
   min-width: 100px;
   height: 80px;
@@ -41,6 +42,7 @@
   color: #1d1d1d;
   margin-top: 10px;
   line-height: 23px;
+  letter-spacing: 0.33px;
 }
 .fa-thumbs-up {
   margin-left: 20px;
