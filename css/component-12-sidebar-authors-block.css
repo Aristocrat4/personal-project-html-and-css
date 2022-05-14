@@ -1,0 +1,31 @@
+.selfie {
+  padding-left: 7px;
+  margin-right: 16px;
+  margin-bottom: 20px;
+}
+.jonathan-p {
+  font-family: "Muli-Regular";
+  font-size: 16px;
+  line-height: 26px;
+  color: #636363;
+  padding-left: 2px;
+  max-width: 246px;
+  letter-spacing: -0.3px;
+}
+.social-icons-author {
+  width: 147px;
+  margin-top: 25px;
+  padding-left: 2px;
+}
+.posted-by {
+  font-family: "Muli-Regular";
+  font-size: 16px;
+  color: #bbc7cd;
+  padding-top: 2px;
+  line-height: 20px;
+}
+.jonat {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 18px;
+  color: #ee3364;
+}
