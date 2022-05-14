@@ -1,0 +1,24 @@
+.keywords {
+  flex-wrap: wrap;
+}
+.keywords span {
+  padding: 10px 20px;
+  border: 2px solid #f0f4f7;
+  border-radius: 17.5px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  font-family: "Muli-Regular";
+  font-size: 13px;
+  color: #8799a3;
+}
+.latest {
+  padding-left: 32px;
+}
+.latest > h3 {
+  padding-left: 7px;
+  padding-top: 5px;
+}
+.psd {
+  background-color: #ee3364;
+  color: #ffffff;
+}
