@@ -41,6 +41,7 @@
       href="./css/component-12-sidebar-authors-block.css"
     />
     <link rel="stylesheet" href="./css/component-13-comments.css" />
+    <link rel="stylesheet" href="./css/component-14-add-comment.css" />
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
@@ -475,6 +476,38 @@
                 </div>
               </div>
             </div>
+          </div>
+          <div class="add-comment">
+            <h5>COMMENTS</h5>
+            <form class="flex jc-sb">
+              <input type="text" name="name" id="name" placeholder="Name" />
+              <input
+                type="email"
+                name="e-mail"
+                id="e-mail"
+                placeholder="Email"
+              />
+              <input
+                type="text"
+                name="webpage"
+                id="webpage"
+                placeholder="Website"
+              />
+              <textarea
+                name="comment-area"
+                id="comment-area"
+                cols="30"
+                rows="10"
+                placeholder="@mexo"
+              ></textarea>
+              <div class="submit-subscribe flex jc-sb ai-c">
+                <button id="sub-form" type="submit">SUBMIT NOW</button>
+                <div>
+                  <input type="checkbox" name="rule" id="rule" />
+                  <span class="subscribee">Subscribe This Conversation</span>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
         <div class="sidebar">
