@@ -47,3 +47,10 @@
 .news {
   margin-bottom: 30px;
 }
+i,
+button,
+h1,
+a,
+li {
+  cursor: pointer;
+}
