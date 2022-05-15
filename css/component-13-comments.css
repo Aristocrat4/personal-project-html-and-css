@@ -1,0 +1,90 @@
+.comments-5 {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: 40px;
+  color: #222222;
+}
+.comments-title {
+  margin-bottom: 30px;
+  padding-top: 20px;
+}
+.comments-section {
+  margin-top: 30px;
+}
+.comments-101 {
+  font-family: "Muli-Regular";
+  font-size: 14px;
+  color: #999999;
+}
+.comment {
+  border: 1px solid #ececec;
+  border-radius: 2px;
+  padding: 27px 32px;
+}
+.comment:first-child {
+  margin-bottom: 20px;
+}
+.comment-img {
+  min-width: 79px;
+  height: 79px;
+  background-color: #d2d2d2;
+}
+.comment-content {
+  margin-left: 30px;
+}
+.scott {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 21px;
+  color: #2f2933;
+}
+.comment-content-header > span {
+  color: #cccccc;
+  font-family: sans-serif;
+  font-size: 14px;
+  margin-right: 30px;
+}
+.second-com > .comment-content > .comment-content-header {
+  padding-top: 10px;
+}
+.second-com > .comment-content > .comment-p {
+  padding-top: 10px;
+  width: 685px;
+  letter-spacing: -0.3px;
+}
+.comment-p {
+  font-family: "Muli-Regular";
+  font-size: 16px;
+  color: #666666;
+  line-height: 30px;
+  margin-bottom: 30px;
+  padding-top: 22px;
+  letter-spacing: -0.3px;
+}
+.shares {
+  width: 322px;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #999999;
+  align-items: flex-end;
+}
+.third-com,
+.fourth-com {
+  padding-left: 87px;
+}
+.third-com > .comment-img,
+.fourth-com > .comment-img {
+  min-width: 75px;
+  height: 73px;
+}
+.fifth-com > .comment-img,
+.sixth-com > .comment-img {
+  min-width: 60px;
+  height: 60px;
+}
+.third-com > .comment-content > .comment-content-header {
+  padding-top: 30px;
+}
+.third-com > .comment-content > .comment-p {
+  padding-top: 3px;
+}
