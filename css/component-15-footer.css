@@ -1,0 +1,131 @@
+.footer-up {
+  background-color: #202020;
+  padding: 61px 0 40px 0;
+}
+.footer-block-1,
+.footer-block-2,
+.footer-block-3,
+.footer-block-4 {
+  width: 23.5%;
+}
+.footer-logo {
+  padding-top: 15px;
+  letter-spacing: ;
+  font-size: 35px;
+  font-family: "Poppins-ExtraBold";
+  color: #ffffff;
+  margin-bottom: 23px;
+  line-height: -0.3px;
+}
+.footer-dot {
+  color: #ee3364;
+  font-size: 35px;
+}
+.footer-logo-p {
+  font-family: "Muli-Regular";
+  font-size: 14px;
+  line-height: 26px;
+  color: #dfdfdf;
+  width: 93%;
+  margin-bottom: 15px;
+}
+.about-us {
+  color: #909090;
+  font-family: "GlacialIndifference-Bold";
+  font-size: 16px;
+  text-decoration: none;
+}
+.footer-h3 {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 23px;
+  color: #fff;
+  line-height: 38px;
+  letter-spacing: -0.3px;
+  margin-bottom: 27px;
+}
+.footer-recent-p {
+  font-family: "GlacialIndifference-Bold";
+  font-size: 17px;
+  line-height: 20px;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.footer-march {
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #7f7f7f;
+}
+.footer-recent-p:not(:first-child) {
+  margin-top: 30px;
+}
+.mex {
+  font-family: "Poppins-Regular";
+  font-size: 15px;
+  color: #fff;
+  line-height: 28px;
+  padding-left: 5px;
+}
+.mexo {
+  display: block;
+  font-family: "Poppins-Regular";
+  font-size: 12px;
+  color: #7d7d7d;
+  line-height: 28px;
+}
+.mexo::after {
+  content: "";
+  display: block;
+  height: 1px;
+  width: 100%;
+  margin-top: 8px;
+  background-color: #e7e7e7;
+  margin-bottom: 15px;
+}
+.mex-p {
+  font-family: "Muli-Regular";
+  font-size: 15px;
+  line-height: 26px;
+  color: #7d7d7d;
+  margin-bottom: 5px;
+}
+.mex-march {
+  font-family: "Muli-Bold";
+  font-size: 13px;
+  color: #7f7f7f;
+  margin-left: 10px;
+}
+
+.our-p,
+.our-phone-second,
+.our-email-second {
+  font-family: "Muli-Regular";
+  font-size: 15px;
+  line-height: 28px;
+  color: #757576;
+}
+.our-email,
+.our-phone {
+  font-family: "Muli-Bold";
+  font-size: 15px;
+  line-height: 28px;
+  color: #fff;
+  margin-right: 5px;
+}
+.soc-logos {
+  margin-top: 20px;
+  width: 140px;
+}
+.footer-down {
+  background-color: #161616;
+  padding: 30px 0;
+  position: relative;
+}
+.copy {
+  font-family: sans-serif;
+  color: #616262;
+  font-size: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-66.5%, -40%);
+}
