@@ -21,8 +21,9 @@
   justify-content: space-between;
   width: 120px;
 }
-.social-icons > img {
+.social-icons > i {
   cursor: pointer;
+  transition: all ease-in-out 0.5s;
 }
 .top-info {
   position: relative;
@@ -35,4 +36,16 @@
   position: absolute;
   bottom: -1px;
   background-color: #c9c9c9;
+}
+.f-t:hover {
+  color: #4267b2;
+}
+.t-t:hover {
+  color: #00acee;
+}
+.g-t:hover {
+  color: #db4a39;
+}
+.l-t:hover {
+  color: #0072b1;
 }

@@ -25,7 +25,7 @@
   width: 294px;
   padding: 43px 46px 46px 38px;
   border: 1px solid #f1f1f1;
-  box-shadow: 0px 12px 8px #ccc;
+  box-shadow: 0px 12px 8px rgba(0, 0, 0, 0.04);
 }
 .news-title {
   font-size: 24px;

@@ -29,3 +29,6 @@
   font-size: 18px;
   color: #ee3364;
 }
+.social-icons-author i {
+  transition: all ease-in-out 0.5s;
+}

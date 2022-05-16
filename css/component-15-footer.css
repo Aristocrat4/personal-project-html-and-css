@@ -128,3 +128,33 @@
   left: 50%;
   transform: translate(-66.5%, -40%);
 }
+.footer-soc-v,
+.footer-soc-f,
+.footer-soc-t,
+.footer-soc-g {
+  width: 37px;
+  height: 37px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: transparent;
+  color: #fff;
+  transition: all ease-in-out 0.5s;
+}
+.footer-soc-v:hover {
+  background-color: #86c9ef;
+}
+.footer-soc-f:hover {
+  background-color: #4267b2;
+}
+.footer-soc-t:hover {
+  background-color: #00acee;
+}
+.footer-soc-g:hover {
+  background-color: #db4a39;
+}
+.f-go,
+.f-fb,
+.f-tw,
+.f-vi {
+  margin-right: 0;
+}

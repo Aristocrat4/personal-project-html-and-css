@@ -18,7 +18,10 @@
   font-size: 18px;
   line-height: 36px;
 }
-.logo-and-nav > nav > ul > li:nth-child(3) {
+.logo-and-nav > nav > ul > li {
+  transition: all ease-in-out 0.5s;
+}
+.logo-and-nav > nav > ul > li:hover {
   color: #ee3364;
 }
 .cart-search {

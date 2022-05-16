@@ -49,7 +49,7 @@
 }
 .second-com > .comment-content > .comment-p {
   padding-top: 10px;
-  width: 685px;
+  /* width: 685px; */
   letter-spacing: -0.3px;
 }
 .comment-p {
@@ -71,6 +71,7 @@
 .third-com,
 .fourth-com {
   padding-left: 87px;
+  background-color: #69d2e706;
 }
 .third-com > .comment-img,
 .fourth-com > .comment-img {
@@ -87,4 +88,7 @@
 }
 .third-com > .comment-content > .comment-p {
   padding-top: 3px;
+}
+.shares-dots img {
+  height: 6px;
 }
